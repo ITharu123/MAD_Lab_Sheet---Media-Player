@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Additional Lab Sheet - Media Player</string>
+    <string name="Start" />
+    <string name="button1">Start</string>
+    <string name="button2">Pause</string>
+    <string name="button3">Stop</string>
+</resources>
